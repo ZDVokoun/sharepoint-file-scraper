@@ -1,5 +1,5 @@
 # Sharepoint File Scraper
-A script for scraping file links from Sharepoint 2013 site. After running the script, you will get list of links to all files on Sharepoint which you can download using e. g. `wget`.
+A script for scraping file links from Sharepoint 2013 site. After running the script, you will get list of links to all files on Sharepoint which you can then download using e. g. `wget`.
 Before using the script, run `npm install` to download dependencies.
 
 
