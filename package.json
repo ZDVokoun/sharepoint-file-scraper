@@ -1,0 +1,16 @@
+{
+  "name": "sharepoint-file-scraper",
+  "version": "1.0.0",
+  "description": "Script to scrap all links to files hosted on Sharepoint. Made for Sharepoint 2013",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "ZDVokoun",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
